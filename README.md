@@ -28,7 +28,7 @@ Zachęcam do zapoznania się z moimi repozytoriami, w których znajdują się pr
 ---
 
 📧 email: jacko-ski@gmail.com  
-🔗 LinkedIn: [www.linkedin.com/in/jacek-podgórni](https://www.linkedin.com/in/jacek-podgorni)
+🔗 LinkedIn: [www.linkedin.com/in/jacek-podgorni](https://www.linkedin.com/in/jacek-podgorni)
 
 <!--
 **jacko-ski/jacko-ski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
