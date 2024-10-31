@@ -19,13 +19,7 @@ Stawiam na nieustanny rozwój i doskonalenie swoich umiejętności. Regularnie p
 
 #### Moje doświadczenie
 
-Wcześniej zdobyłem doświadczenie w branży inżynierii środowiska, gdzie rozwijałem zdolności organizacyjne, planowania i rozwiązywania problemów. Te umiejętności przekładam teraz na świat IT, dążąc do tworzenia wydajnych, dobrze zaprojektowanych rozwiązań.
-
-#### Poszukiwania
-
-Obecnie poszukuję nowych wyzwań w dziedzinie programowania — zarówno w pracy, jak i stażu — gdzie mogę wykorzystać swoje umiejętności i zaangażowanie, aby przyczynić się do rozwoju projektów. Jeśli jesteś zainteresowany/a współpracą, zapraszam do kontaktu!
-
-📧 jacko-ski@gmail.com
+Wcześniej zdobyłem doświadczenie w branży teletechnicznej, gdzie rozwijałem zdolności organizacyjne, planowania i rozwiązywania problemów. Te umiejętności przekładam teraz na świat IT, dążąc do tworzenia wydajnych, dobrze zaprojektowanych rozwiązań.
 
 #### Sprawdź moje projekty
 
@@ -33,7 +27,8 @@ Zachęcam do zapoznania się z moimi repozytoriami, w których znajdują się pr
 
 ---
 
-🔗 LinkedIn: [www.linkedin.com/in/jacek-podgórni](https://www.linkedin.com/in/jacek-podgórni)
+📧 email: jacko-ski@gmail.com  
+🔗 LinkedIn: [www.linkedin.com/in/jacek-podgórni](https://www.linkedin.com/in/jacek-podgorni)
 
 <!--
 **jacko-ski/jacko-ski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
