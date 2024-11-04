@@ -2,28 +2,28 @@
 
 #### O mnie
 
-Jestem absolwentem kursu Coders Lab, gdzie zdobyłem solidne fundamenty i praktyczne umiejętności programistyczne. Kurs ten obejmował szeroki zakres technologii, m.in.:
+Jestem pasjonatem programowania, specjalizującym się w Javie i stale rozwijającym swoje umiejętności w szerokim zakresie technologii. Skupiam się na solidnym opanowaniu podstaw oraz praktycznych umiejętnościach, takich jak:
 - **Java** (programowanie obiektowe, tworzenie aplikacji konsolowych),
-- **Bazy danych SQL**,
+- **SQL** (zarządzanie bazami danych),
 - **Servlety i JSP** (projektowanie stron internetowych),
 - **JavaScript**,
-- **Spring & Spring Boot** (tworzenie serwisów webowych),
+- **Spring & Spring Boot & Spring Security** (tworzenie serwisów webowych),
 - **Hibernate**,
 - **REST API**.
 
-W trakcie kursu pracowałem nad projektami, które pozwoliły mi nie tylko zrozumieć teorię, ale także zyskać praktyczne doświadczenie w programowaniu i zarządzaniu bazami danych.
+Pracuję nad projektami, które pozwalają mi rozwijać te umiejętności, zyskiwać praktyczne doświadczenie oraz tworzyć rozwiązania oparte na rzeczywistych potrzebach.
 
 #### Samorozwój
 
-Stawiam na nieustanny rozwój i doskonalenie swoich umiejętności. Regularnie przeglądam materiały, eksperymentuję i realizuję własne projekty, aby utrwalać zdobytą wiedzę i lepiej zrozumieć technologie, z którymi pracuję.
+Stawiam na nieustanny rozwój i doskonalenie swoich kompetencji. Regularnie korzystam z materiałów edukacyjnych, eksperymentuję z nowymi projektami i technologiami, aby utrwalać zdobytą wiedzę i rozumieć lepiej narzędzia, z którymi pracuję.
 
 #### Moje doświadczenie
 
-Wcześniej zdobyłem doświadczenie w branży teletechnicznej, gdzie rozwijałem zdolności organizacyjne, planowania i rozwiązywania problemów. Te umiejętności przekładam teraz na świat IT, dążąc do tworzenia wydajnych, dobrze zaprojektowanych rozwiązań.
+Wcześniej zdobyłem doświadczenie w branży teletechnicznej, gdzie rozwinąłem umiejętności organizacyjne, planowania i rozwiązywania problemów. Obecnie przekładam te zdolności na projekty IT, dążąc do tworzenia wydajnych, dobrze zaprojektowanych rozwiązań.
 
 #### Sprawdź moje projekty
 
-Zachęcam do zapoznania się z moimi repozytoriami, w których znajdują się projekty ukazujące moje umiejętności i podejście do kodowania.
+Zachęcam do zapoznania się z moimi repozytoriami, w których znajdują się projekty ukazujące moje umiejętności i podejście do programowania.
 
 ---
 
